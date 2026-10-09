@@ -4,7 +4,7 @@
 
 The **Campus Issue Management System** is a MySQL-based database project designed to manage and track maintenance-related issues reported by students on a college campus.
 
-Students can report problems such as electrical faults, projector issues, damaged furniture, internet problems, broken equipments and plumbing issues. The system stores issue details, assigns maintenance staff, tracks issue status changes, and records resolution information.
+Students can report problems such as electrical faults, projector issues, damaged furniture, internet issues, broken equipments and plumbing issues. The system stores issue details, assigns maintenance staff, tracks issue status changes, and records resolution information.
 
 The project demonstrates important DBMS concepts such as:
 
