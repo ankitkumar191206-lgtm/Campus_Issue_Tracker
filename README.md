@@ -767,3 +767,4 @@ The **Campus Issue Management System** provides a structured database solution f
 The system maintains data consistency through foreign keys and constraints, prevents duplicate active complaints using triggers, automatically records issue status changes, and simplifies common operations through stored procedures and functions.
 
 The project provides a practical implementation of important **Database Management System (DBMS)** concepts using MySQL.
+thank you 
